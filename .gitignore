@@ -1,0 +1,7 @@
+# config
+.idea/
+venv/
+
+# Secrets or sensitive files (like .env or config.py)
+.env
+config.py
